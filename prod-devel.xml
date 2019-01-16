@@ -4,7 +4,7 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="master" revision="master" />
-    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
+    <project name="iartemenko/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="pr_reconstruct" revision="pr_reconstruct" />
+    <project name="iartemenko/meta-xt-images" path="meta-xt-images" upstream="pr_reconstruct" revision="pr_reconstruct" />
     <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
 </manifest>
