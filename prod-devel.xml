@@ -4,7 +4,7 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="master" revision="master" />
-    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
-    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
+    <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="REL-v1.0" revision="e4c0f6da6e4da9b0863cf43e7f6de1ceb013a3f2" />
+    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="REL-v1.0-prod-devel" />
+    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="REL-v1.0-prod-devel" />
 </manifest>
